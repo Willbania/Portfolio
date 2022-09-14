@@ -9,7 +9,7 @@ SO THAT I can display samples of my work to potential employers
 ## The Finished Application
 the finished application should resemble the mockup in functionality but not so much in appearance or layout. detailed in the following image.
 
-[Alt text](./assets/images/demo.gif"Reference Image")
+[Alt text](./assets/images/demo.gif "Reference Image")
 
 
 ## Acceptance Criteria
